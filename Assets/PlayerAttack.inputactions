@@ -1,0 +1,34 @@
+{
+    "name": "PlayerAttack",
+    "maps": [
+        {
+            "name": "Attack",
+            "id": "4045b304-d410-46d8-9162-340c4f55d4a6",
+            "actions": [
+                {
+                    "name": "Attack",
+                    "type": "Button",
+                    "id": "caa22044-8cf1-4d25-8d73-be2fa2099a10",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b737d47a-ec7d-4fdb-a001-e9d4067db668",
+                    "path": "<Keyboard>/f",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
